@@ -12,7 +12,7 @@
         android:layout_gravity="center"
         app:lock9_nodeSrc="@drawable/node_normal"
         app:lock9_nodeOnSrc="@drawable/node_error"
-        app:lock9_lineColor="#aaff0000"
+        app:lock9_lineColor="@color/red_light"
         app:lock9_lineWidth="4dp"
         app:lock9_padding="28dp"
         app:lock9_spacing="28dp" />
